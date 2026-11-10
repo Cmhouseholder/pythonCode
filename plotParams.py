@@ -64,15 +64,15 @@ zfC = {
     'lws1' : '#CE2A22',
     'lws2' : '#CE2A22',
     'actb2': '#926645',
-    'tbx2a': '#c92675',
-    'tbx2b': '#7526c9',
+    'tbx2a': '#FD7EF2',
+    'tbx2b': '#28CEFF',
     'six7' : '#d6ab00',
 }
 
 zfG = {
     'wt' : '#000000',
-    'tbx2a' : '#ab266b',
-    'tbx2b' : '#421f8e',
+    'tbx2a' : '#FD7EF2',
+    'tbx2b' : '#28CEFF',
     'foxq2' : '#001dd6',
     'nr2e3' : '#7d7d7d',
     'lrrfip1a' : '#00CC6A',
